@@ -1,3 +1,4 @@
+[Home](https://jennjoyce.github.io/learning-journal/)
 
 # Things I learned from Module 1 and Advice for non techy people:
 

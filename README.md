@@ -1,7 +1,7 @@
 # learning-journal
 ## 102-Learning Journal
 
-# What is growth mindset
+# What is growth mindset?
 
 * it is being a life long learner
 * it is realizing mistakes are a path to an outcome, not failure

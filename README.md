@@ -1,6 +1,9 @@
 # learning-journal
 ## 102-Learning Journal
 
+# Introduction
+I am Jenn Joyce. Currently a student in NewboCo's Delta V 102 class. I have 5 kids, a few part time jobs, and no pets, because I can live in a world with a lot of spinning plates....just not with four legs and fur. I drink my fair share of coffee with lots of French Vanilla creamer everyday.  I run half marathons and I love to watch the sunset over the Gulf of Mexico. I have a teaching degree from Iowa State University and I was able to do part of my student teaching in South Africa in a school with no running water or electricity. My life is very full and wonderful. Also, I drive a minivan....which is also full...of food wrappers and shoes and smashed french fries and random toys that my kids drag to the van and never seem to make it back into the house. 
+
 # What is growth mindset?
 
 1. It is being a **life long learner**

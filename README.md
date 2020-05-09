@@ -12,5 +12,4 @@ You can look at my profile at [GitHub](https://github.com/jennjoyce).
 
 - [Markdown Examples](/MarkdownExample.md)
 - [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
-- [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/Discussion_02.md)
-- [My profile](https://github.com/jennjoyce)
+- [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)

@@ -1,1 +1,1 @@
-`pwd` means Print Working Directory
+- `pwd` means Print Working Directory

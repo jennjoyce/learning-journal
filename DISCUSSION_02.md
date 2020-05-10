@@ -3,6 +3,8 @@
 # Module 2 
 ## What I learned + advice for non techy people:
 
+### The programs I installed for Lab 2
+
 ### Terminal commands 
 
 

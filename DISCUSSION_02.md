@@ -18,3 +18,13 @@
 
 - use up and down arrow keys to view your history
 
+
+### Other Noteworthy Items from Module 2 Videos
+- Terminal tasks include: 
+  -Find files & find content
+  -Change directories
+  -Move & copy files
+  -Open a file
+  -Make a new file 
+  -Make a new directory
+

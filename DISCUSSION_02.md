@@ -1,6 +1,7 @@
 [Home](https://jennjoyce.github.io/learning-journal/)
 
-# Things I learned from Module 2 and Advice for non techy people:
+# Module 2 
+## What I learned + advice for non techy people:
 
 ### Terminal commands 
 
@@ -36,3 +37,12 @@
 - Be sure to have *auto save* on for your text editor so you don't lose your work
 - Absolute paths begin with a / (forward slash)
 - The best code editor is the one that works for you and that you can understand how to use well
+
+### Advice for non techy people:
+
+- Understand your expectations:
+ * Delta V did me a * HUGE * favor by stating this (I'm paraphrasing): "This lab will take you 3 hours. You will not understand what you are doing while doing the lab portion of this assignment. Follow it all step by step, line by line. Ask for help if you need it."
+ * I was grateful for the idea of being ok with having no clue what I was doing or why.  I know I'll get there. Knowing ahead of time that it was ok for me to be confused and for it to not makes sense was very helpful. 
+- Ask for help.  
+ * Teachers want to help students.  Asking for help blesses everyone. You get to learn, they get to exercise their knowledge. 
+ 

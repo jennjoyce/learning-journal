@@ -2,7 +2,7 @@
 
 # Things I learned from Module 2 and Advice for non techy people:
 
-** Terminal commands **
+### ** Terminal commands **
 
 
 - `pwd` means Print Working Directory; This basically gives you a heads up as to where you are.

@@ -4,10 +4,10 @@
 ## What I learned + advice for non techy people:
 
 ### The programs I installed for Lab 2
--
--
--
--
+- **Ubuntu**
+- **VSCode**  with extensions
+- **Node.js**
+- **Git**
 
 
 ### Terminal commands 

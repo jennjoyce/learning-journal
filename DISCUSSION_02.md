@@ -20,7 +20,7 @@
 - `.` (full stop); hides a file
 - `echo` used to display messages
 - `-`  options start with a - (dash)
-- `lsa` lists hidden files
+- `ls -a` lists hidden files
 - `mkdir` make directory; makes a folder on the desktop
 - `clear` clears your text
 

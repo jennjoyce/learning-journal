@@ -28,3 +28,11 @@
   * Make a new file 
   * Make a new directory
 
+
+- Use camelCase when naming files. The computer doesn't know what to do w/ a blank space
+- Everything is a file
+- GUI means Graphical User Interface
+- Code editors with extensions are valuable time & sanity savers.  Good extensions: Emmet, syntax highlighting, Boilerplate for themes
+- Be sure to have *auto save* on for your text editor so you don't lose your work
+- Absolute paths begin with a / (forward slash)
+- The best code editor is the one that works for you and that you can understand how to use well

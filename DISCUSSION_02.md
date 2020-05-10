@@ -47,10 +47,10 @@
 
 ### Advice for non techy people and anyone learning a new skill:
 
-* __***Understand your expectations:***__
+* *Understand your expectations:*
   * DeltaV did me a **HUGE** favor by stating this (I'm paraphrasing): "This lab will take you 3 hours. You will not understand what you are doing while doing the lab portion of this assignment. Follow it all step by step, line by line. Ask for help if you need it."
   * I was grateful for the idea of being ok with having no clue what I was doing or why.  I know I'll get there. Knowing ahead of time that it was ok for me to be confused and for it to not makes sense was very helpful. 
-* __***Ask for help.***__  
+* *Ask for help.* 
   * Teachers want to help students.  Asking for help blesses everyone. You get to learn, they get to exercise their knowledge that they spent years obtaining just so they can help others.  
   * Be patient with the learning process.  These things take time and practice. No one became an expert at anything overnight.
  

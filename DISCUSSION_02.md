@@ -9,6 +9,7 @@
 - `ls` list; gives a list of the items of the directory you are in
 - `cd` change directory; change your "location"
 - `touch` basically means to make a file
+  -Example: touch=index.html makes an html file inside your directory
 - `.` (full stop); hides a file
 - `echo` used to display messages
 - `-`  options start with a - (dash)

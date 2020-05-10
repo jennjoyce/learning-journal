@@ -13,4 +13,8 @@
 - `echo` used to display messages
 - `-`  options start with a - (dash)
 - `lsa` lists hidden files
+- `mkdir` make directory; makes a folder on the desktop
+- `clear` clears your text
+
+- use up and down arrow keys to view your history
 

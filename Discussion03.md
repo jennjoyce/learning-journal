@@ -2,11 +2,11 @@
 
 # Revisions and the Cloud
 
-* 
-* I am currently working in VS on my computer. I will attempt to A-C-P to Git with Module 3 Assignement.
+
+## I am currently working in VS on my computer. I will attempt to A-C-P to Git with Module 3 Assignement.
 
 
-* Cloning a repository from the Cloud to your machine:
+## Cloning a repository from the Cloud to your machine:
 
 1) Open GitHub and find your selected repository and copy it.  (There's a gree rectangle button that says: "Copy or Download")
 2) Once you have your link open your terminal and find out where you are on the command line by using: `pwd`

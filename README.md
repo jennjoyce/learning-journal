@@ -13,5 +13,5 @@ You can look at my profile at [GitHub](https://github.com/jennjoyce).
 - [Markdown Examples](/MarkdownExample.md)
 - [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
 - [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)
-- [Module 3 Discussion: Revisions and the Cloud](/Discussion03: Revisions and the Cloud.md)
+- [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
 - [GitHub](https://github.com/jennjoyce)

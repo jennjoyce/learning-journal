@@ -4,16 +4,15 @@
 
 ## Chapter 18 Process and Design 
 
-* Who is your site for? You'll be tempted to show off your rad coding skills, but really you should build the site for your ideal user/avatar. Know your ideal customer's motivations and goals so you can give them the right information, in the right way, in the right format, at the right time. Reflect the public's understanding of the subject rahter than your own expertise on a subject.
+* Who is your site for? You'll be tempted to show off your rad coding skills, but really you should build the site for your ideal user/avatar. Know your ideal customer's motivations and goals, so you can give them the right information, in the right way, in the right format, at the right time. Reflect the public's understanding of the subject rather than your own expertise on a subject.
 * Use good design to draw people in and attract them to your site, use good content and UX to keep them coming back. 
-* Be organized, not haphazard with your site's info and content.
-* Use wireframing to make a plan that will help the user.  
-* Wireframing tools can be done on paper or use tools found [online.](https://www.gomockingbird.com/home)
-* I have _*so*_ much to say about design, as I just took a semester long web design class but I'll spare you all the details and just say that using these design elements is important:  
+* Be organized, not haphazard with your site's info and content. You can do this by wireframing ahead of time before you start building. 
+* Wireframing  can be done on paper or use tools found [online.](https://www.gomockingbird.com/home)
+* I have __*so*__ much to say about design, as I just took a semester long web design class. I'll spare you all the details and just say that using these design elements is important:  
     * brand colors
     * fonts 
     * contrast
-    * repitition
+    * repetition
     * alignment
     * proximity 
 

@@ -15,3 +15,4 @@ You can look at my profile at [GitHub](https://github.com/jennjoyce).
 - [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)
 - [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
 - [Module 4 Discussion: HTML structure](Discussion04.md)
+- [Module 5 Discussion: CSS structure](Discussion05.mdg)

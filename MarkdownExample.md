@@ -19,3 +19,14 @@ You can look at my profile at [GitHub](https://github.com/jennjoyce).
   * What was really hard to learn today will become easier to learn tomorrow with practice.
 * Reconginizing other's success does not mean you failed or aren't on your way to success as well.  
   * *Be a cheerleader.*
+
+
+## Table of Contents
+
+- [Markdown Examples](/MarkdownExample.md)
+- [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
+- [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)
+- [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
+- [Module 4 Discussion: HTML structure](Discussion04.md)
+- [Module 5 Discussion: CSS structure](Discussion05.md)
+- [Module 6 Discussion: JavaScript](Discussion06.md)

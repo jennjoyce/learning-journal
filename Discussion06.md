@@ -58,3 +58,4 @@
 - [Module 4 Discussion: HTML structure](Discussion04.md)
 - [Module 5 Discussion: CSS structure](Discussion05.md)
 - [Module 6 Discussion: JavaScript](Discussion06.md)
+- [Module 6b Discussion: How computers work](Discussion06b.md)

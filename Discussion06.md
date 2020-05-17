@@ -49,20 +49,6 @@
  * [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Table of Contents
 
 - [Markdown Examples](/MarkdownExample.md)
@@ -71,3 +57,4 @@
 - [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
 - [Module 4 Discussion: HTML structure](Discussion04.md)
 - [Module 5 Discussion: CSS structure](Discussion05.md)
+- [Module 6 Discussion: JavaScript](Discussion06.md)

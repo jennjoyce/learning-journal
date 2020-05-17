@@ -42,5 +42,13 @@
     *  I am guessing this is where `pull`, `fetch`, and `merge` come into play?
 *  What happens if you don't want someone messing w/ your code on Github? Do you just make your repository private? For instance I have a friend who works for a company that is in    a lawsuit over some open source software. They make software for the insurance and financial industry....Surely not everything is up for grabs? 
 
+## Table of Contents
 
+- [Markdown Examples](/MarkdownExample.md)
+- [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
+- [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)
+- [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
+- [Module 4 Discussion: HTML structure](Discussion04.md)
+- [Module 5 Discussion: CSS structure](Discussion05.md)
+- [Module 6 Discussion: JavaScript](Discussion06.md)
 

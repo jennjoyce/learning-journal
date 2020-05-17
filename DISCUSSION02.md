@@ -54,3 +54,12 @@
   * Teachers want to help students.  Asking for help blesses everyone. You get to learn, they get to exercise their knowledge that they spent years obtaining just so they can help others.  
   * Be patient with the learning process.  These things take time and practice. No one became an expert at anything overnight.
  
+## Table of Contents
+
+- [Markdown Examples](/MarkdownExample.md)
+- [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
+- [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)
+- [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
+- [Module 4 Discussion: HTML structure](Discussion04.md)
+- [Module 5 Discussion: CSS structure](Discussion05.md)
+- [Module 6 Discussion: JavaScript](Discussion06.md)

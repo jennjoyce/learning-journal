@@ -10,3 +10,13 @@
 * I've spent lot of hours today doing homework already (maybe 6?) and I've made lots of "mistakes" which are really just curvy learning paths and not failures. 
 * Adding hyperlinks in Github is way easier than in HTML.
 * I really love learning something new and stretching my brain in new ways.  This is going to be fun...and probably frustrating at times. 
+
+## Table of Contents
+
+- [Markdown Examples](/MarkdownExample.md)
+- [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
+- [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)
+- [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
+- [Module 4 Discussion: HTML structure](Discussion04.md)
+- [Module 5 Discussion: CSS structure](Discussion05.md)
+- [Module 6 Discussion: JavaScript](Discussion06.md)

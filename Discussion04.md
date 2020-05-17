@@ -45,3 +45,13 @@
 * Other common and helpful tags: 
     * `<div>` this tag allows you to group elements together in one block-level box
     * `<span>` this element acts like an inline equivalent of the `<div>`.  It can contain a section of text or contain a number of inline elements. 
+
+## Table of Contents
+
+- [Markdown Examples](/MarkdownExample.md)
+- [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
+- [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)
+- [Module 3 Discussion: Revisions and the Cloud](/Discussion03.md)
+- [Module 4 Discussion: HTML structure](Discussion04.md)
+- [Module 5 Discussion: CSS structure](Discussion05.md)
+- [Module 6 Discussion: JavaScript](Discussion06.md)

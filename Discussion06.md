@@ -26,7 +26,6 @@
 * Link the `.js` file to `HTML` with a `link` and `src` in a `<script>` element
 
 ## Info about script: 
-
 * A script is instructions
 * Each individual instruction is called a statement
 * Statements end w/ a semicolon
@@ -50,7 +49,6 @@
 
 
 ## Table of Contents
-
 - [Markdown Examples](/MarkdownExample.md)
 - [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
 - [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)

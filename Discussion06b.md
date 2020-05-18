@@ -38,7 +38,7 @@
 * they hold information in the CPU circuits
 * computers have many circuits and they are tiny, which means the information only has to travel a small amount of distance, which means they can compute a lot of things really quickly
 
-
+## Table of Contents
 - [Markdown Examples](/MarkdownExample.md)
 - [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
 - [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)

@@ -58,6 +58,7 @@
 * Parameters are passed into functions, they act like variable names
 * You call a function by using `()`  Ex: greetUser();
 
+## Table of Contents
 - [Markdown Examples](/MarkdownExample.md)
 - [Module 1 Discussion: Advice for a non techy person](/Discussion.md)
 - [Module 2 Discussion: Terminals, Installfest, and the Coder's Computer](/DISCUSSION_02.md)

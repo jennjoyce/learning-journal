@@ -21,13 +21,13 @@
 * Test and debug your program
 
 # JavaScript vocabulary 
-* _Function_ A group of statements blocks of code; it uses `{}`
-* _Concatenation_ the process of joining 2 strings together to create one string. Concatenation uses this symbol: `+`.
-* _Parameter_ information that is passed to a function
-* _Return Value_ when you expect an answer from a function
-* _String_ information that the computer uses to perform tasks.  
+* __Function__ A group of statements that uses blocks of code; it uses `{}`
+* __Concatenation__ the process of joining 2 strings together to create one string. Concatenation uses this symbol: `+`.
+* __Parameter__information that is passed to a function
+* __Return Value__ when you expect an answer from a function
+* __String__ information that the computer uses to perform tasks.  
     *Strings are contained in `'` and can include numbers and letters.  Numbers that are strings cannot perform mathmatical processes and they are surrounded by `'`. Example: `42` is a string and not a number. 
-* _Variable_ a place for JavaScript to hold data for later use
+* __Variable__ a place for JavaScript to hold data for later use, variables can be numbers, integers, strings, etc.
 
 
 # Operators:

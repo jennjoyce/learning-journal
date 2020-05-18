@@ -16,7 +16,7 @@
 
 # How to write a script:
 * State your goal
-* Design the script (Make a flowchart on paper [online](https://www.smartdraw.com/flowchart/flowchart-maker.htm?id=45054&gclid=CjwKCAjw5Ij2BRBdEiwA0Frc9SIJgsYXSi69qg1ISX48GX0_JvhxTzdTzEElsavldpqwM4JPcP_qBRoCebcQAvD_BwE) )
+* Design the script (Make a flowchart on paper  or [online](https://www.smartdraw.com/flowchart/flowchart-maker.htm?id=45054&gclid=CjwKCAjw5Ij2BRBdEiwA0Frc9SIJgsYXSi69qg1ISX48GX0_JvhxTzdTzEElsavldpqwM4JPcP_qBRoCebcQAvD_BwE) )
 * Code each step in a logical manner with instructions and language that a computer can understand
 * Test and debug your program
 

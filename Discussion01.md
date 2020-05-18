@@ -21,3 +21,5 @@
 - [Module 5 Discussion: CSS structure](Discussion05.md)
 - [Module 6 Discussion: JavaScript](Discussion06.md)
 - [Module 6b Discussion: How computers work](Discussion06b.md)
+- [Module 7 Discussion: JavaScript Basics](Discussion07.md)
+- [Module 8 Discussion: JavaScript - Operators & Loops](Discussion08.md)
